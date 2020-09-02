@@ -1,4 +1,4 @@
-# vick's generator
+# vick's sample generator
 
 ## Table of Contents
 
